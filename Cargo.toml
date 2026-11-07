@@ -3,8 +3,6 @@ name = "sigmaos_emacs"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-
 [lib]
 name = "sigmaos_emacs"
 path = "src/lib.rs"
